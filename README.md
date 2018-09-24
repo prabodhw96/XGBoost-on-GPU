@@ -9,4 +9,4 @@ Cartographic variables of 581,012 measurements.
 No. of iterations: 100 (set to minimum) <br>
 CPU Time: 202.088345 <br>
 GPU Time: 74.84743 <br>
-### Training Time reduced to 37.037%<br>
+#### Training Time reduced to 37.037%<br>
